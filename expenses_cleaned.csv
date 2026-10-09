@@ -1,0 +1,217 @@
+Date,Category,Description,Amount,Payment_Mode,Year,Month
+2024-01-01,Rent,House rent,10983.0,UPI,2024,January
+2024-01-02,Unknown,Electronics,4300.0,Credit Card,2024,January
+2024-01-02,Shopping,Myntra purchase,2645.0,UPI,2024,January
+2024-01-04,Rent,House rent,9173.0,Credit Card,2024,January
+2024-01-16,Shopping,Clothes shopping,4545.0,Cash,2024,January
+2024-01-17,Healthcare,Health checkup,989.0,Cash,2024,January
+2024-01-17,Education,Tuition fee,1267.0,Credit Card,2024,January
+2024-01-17,Healthcare,Health checkup,1280.0,Debit Card,2024,January
+2024-01-17,Food,Zomato order,172.0,Credit Card,2024,January
+2024-01-18,Food,Cafe coffee,234.0,Debit Card,2024,January
+2024-01-23,Other,ATM withdrawal,796.0,Credit Card,2024,January
+2024-01-23,Groceries,Monthly groceries,1666.0,Credit Card,2024,January
+2024-01-24,Education,Udemy course,2893.0,Unknown,2024,January
+2024-01-24,Other,Donation,859.0,UPI,2024,January
+2024-01-25,Transport,Uber ride,206.0,Credit Card,2024,January
+2024-01-26,Groceries,BigBasket order,682.0,Cash,2024,January
+2024-01-26,Transport,Ola cab,438.0,Credit Card,2024,January
+2024-01-29,Education,Udemy course,762.0,Debit Card,2024,January
+2024-01-30,Education,Books,2022.0,UPI,2024,January
+2024-02-01,Food,Cafe coffee,371.0,Cash,2024,February
+2024-02-03,Other,Donation,243.0,Credit Card,2024,February
+2024-02-03,Entertainment,Spotify premium,505.0,Cash,2024,February
+2024-02-08,Utilities,Mobile recharge,1844.0,Cash,2024,February
+2024-02-09,Entertainment,Gaming,390.0,Debit Card,2024,February
+2024-02-13,Education,Books,3829.0,UPI,2024,February
+2024-02-14,Rent,Monthly rent,11692.0,Cash,2024,February
+2024-02-15,Education,Tuition fee,2567.0,UPI,2024,February
+2024-02-16,Entertainment,Gaming,807.0,UPI,2024,February
+2024-02-16,Shopping,Myntra purchase,314.0,UPI,2024,February
+2024-02-16,Utilities,Electricity bill,1680.0,Cash,2024,February
+2024-02-17,Entertainment,Netflix subscription,249.0,Cash,2024,February
+2024-02-19,Rent,Monthly rent,12403.0,Cash,2024,February
+2024-02-19,Groceries,Vegetables & fruits,832.0,UPI,2024,February
+2024-02-20,Shopping,Amazon order,1928.0,Credit Card,2024,February
+2024-02-21,Utilities,Mobile recharge,331.0,Credit Card,2024,February
+2024-02-24,Transport,Uber ride,328.0,UPI,2024,February
+2024-02-25,Entertainment,Movie tickets,189.0,Cash,2024,February
+2024-02-26,Entertainment,Gaming,393.0,UPI,2024,February
+2024-02-28,Entertainment,Gaming,626.0,Debit Card,2024,February
+2024-03-01,Shopping,Clothes shopping,3682.0,Credit Card,2024,March
+2024-03-01,Entertainment,Gaming,660.0,Debit Card,2024,March
+2024-03-02,Groceries,Vegetables & fruits,462.0,UPI,2024,March
+2024-03-02,Utilities,Mobile recharge,760.0,Debit Card,2024,March
+2024-03-05,Rent,Monthly rent,8701.0,Cash,2024,March
+2024-03-05,Other,Miscellaneous,1328.0,UPI,2024,March
+2024-03-07,Food,Swiggy delivery,278.0,Credit Card,2024,March
+2024-03-10,Groceries,BigBasket order,1733.0,Credit Card,2024,March
+2024-03-13,Entertainment,Spotify premium,211.0,Cash,2024,March
+2024-03-14,Other,Gift,929.0,UPI,2024,March
+2024-03-14,Shopping,Electronics,1343.0,Credit Card,2024,March
+2024-03-17,Shopping,Myntra purchase,867.0,Credit Card,2024,March
+2024-03-18,Utilities,Water bill,1084.0,Credit Card,2024,March
+2024-03-19,Shopping,Electronics,1642.0,UPI,2024,March
+2024-03-19,Utilities,Internet bill,437.0,Cash,2024,March
+2024-03-20,Groceries,Vegetables & fruits,965.0,Cash,2024,March
+2024-03-20,Entertainment,Movie tickets,452.0,Cash,2024,March
+2024-03-20,Other,Miscellaneous,1315.0,Credit Card,2024,March
+2024-03-21,Shopping,Myntra purchase,2752.0,Debit Card,2024,March
+2024-03-22,Healthcare,Doctor visit,1493.0,Credit Card,2024,March
+2024-03-23,Shopping,Electronics,1333.0,Debit Card,2024,March
+2024-03-24,Groceries,Local market,1854.0,Credit Card,2024,March
+2024-03-24,Utilities,Electricity bill,521.0,UPI,2024,March
+2024-03-25,Education,Udemy course,4447.0,Unknown,2024,March
+2024-03-27,Utilities,Internet bill,1345.0,UPI,2024,March
+2024-03-28,Unknown,Myntra purchase,3164.0,Cash,2024,March
+2024-03-28,Education,Books,1146.0,Cash,2024,March
+2024-03-29,Unknown,Ola cab,127.0,Cash,2024,March
+2024-03-29,Groceries,Local market,941.0,Cash,2024,March
+2024-04-01,Transport,Uber ride,471.0,Credit Card,2024,April
+2024-04-02,Food,Restaurant dinner,449.0,Cash,2024,April
+2024-04-06,Food,Street food,719.0,UPI,2024,April
+2024-04-07,Groceries,Vegetables & fruits,2151.0,Credit Card,2024,April
+2024-04-07,Education,Tuition fee,1071.0,Cash,2024,April
+2024-04-10,Shopping,Amazon order,3585.0,Credit Card,2024,April
+2024-04-11,Entertainment,Movie tickets,175.0,Credit Card,2024,April
+2024-04-12,Utilities,Water bill,1910.0,Debit Card,2024,April
+2024-04-17,Food,Restaurant dinner,693.0,Credit Card,2024,April
+2024-04-18,Shopping,Amazon order,1941.0,Unknown,2024,April
+2024-04-18,Food,Restaurant dinner,361.0,Debit Card,2024,April
+2024-04-19,Rent,House rent,13925.0,UPI,2024,April
+2024-04-24,Entertainment,Gaming,508.0,UPI,2024,April
+2024-04-26,Groceries,Monthly groceries,1034.0,UPI,2024,April
+2024-04-27,Food,Street food,107.0,Credit Card,2024,April
+2024-04-29,Education,Books,1708.0,UPI,2024,April
+2024-04-29,Entertainment,Netflix subscription,539.0,Cash,2024,April
+2024-04-30,Healthcare,Doctor visit,1031.0,UPI,2024,April
+2024-04-30,Shopping,Myntra purchase,868.0,Credit Card,2024,April
+2024-05-01,Rent,House rent,10356.0,UPI,2024,May
+2024-05-03,Transport,Uber ride,588.0,Credit Card,2024,May
+2024-05-04,Food,Restaurant dinner,678.0,UPI,2024,May
+2024-05-05,Groceries,Monthly groceries,871.0,UPI,2024,May
+2024-05-06,Healthcare,Health checkup,2235.0,Credit Card,2024,May
+2024-05-06,Groceries,BigBasket order,383.0,Credit Card,2024,May
+2024-05-08,Groceries,Vegetables & fruits,2110.0,Debit Card,2024,May
+2024-05-08,Utilities,Water bill,1586.0,Credit Card,2024,May
+2024-05-09,Transport,Bus ticket,79.0,UPI,2024,May
+2024-05-09,Entertainment,Gaming,368.0,Cash,2024,May
+2024-05-13,Shopping,Myntra purchase,2773.0,Debit Card,2024,May
+2024-05-14,Groceries,Monthly groceries,1821.0,Credit Card,2024,May
+2024-05-15,Healthcare,Medicines,1841.0,UPI,2024,May
+2024-05-15,Entertainment,Movie tickets,407.0,UPI,2024,May
+2024-05-16,Education,Online course,1977.0,Credit Card,2024,May
+2024-05-19,Rent,Monthly rent,12205.0,Cash,2024,May
+2024-05-24,Transport,Petrol,468.0,Debit Card,2024,May
+2024-05-31,Other,Donation,1398.0,Debit Card,2024,May
+2024-06-02,Utilities,Electricity bill,1665.0,Debit Card,2024,June
+2024-06-03,Shopping,Myntra purchase,3668.0,Debit Card,2024,June
+2024-06-05,Shopping,Clothes shopping,4076.0,UPI,2024,June
+2024-06-08,Food,Street food,206.0,UPI,2024,June
+2024-06-13,Education,Tuition fee,2456.0,Cash,2024,June
+2024-06-14,Transport,Metro card recharge,69.0,Debit Card,2024,June
+2024-06-17,Shopping,Amazon order,2794.0,Credit Card,2024,June
+2024-06-20,Food,Zomato order,240.0,Debit Card,2024,June
+2024-06-22,Groceries,Vegetables & fruits,1318.0,Credit Card,2024,June
+2024-06-23,Unknown,Spotify premium,760.0,Debit Card,2024,June
+2024-06-25,Transport,Bus ticket,484.0,Debit Card,2024,June
+2024-06-27,Education,Books,1709.0,UPI,2024,June
+2024-06-28,Entertainment,Gaming,990.0,Cash,2024,June
+2024-06-30,Utilities,Internet bill,1672.0,Credit Card,2024,June
+2024-07-01,Utilities,Internet bill,1984.0,UPI,2024,July
+2024-07-02,Food,Zomato order,702.0,UPI,2024,July
+2024-07-02,Utilities,Internet bill,1182.0,Credit Card,2024,July
+2024-07-02,Rent,Monthly rent,13587.0,Credit Card,2024,July
+2024-07-05,Other,Miscellaneous,1192.0,Cash,2024,July
+2024-07-07,Entertainment,Netflix subscription,212.0,Debit Card,2024,July
+2024-07-08,Unknown,BigBasket order,2060.0,UPI,2024,July
+2024-07-08,Utilities,Water bill,623.0,Cash,2024,July
+2024-07-13,Healthcare,Health checkup,1826.0,Cash,2024,July
+2024-07-14,Education,Udemy course,4216.0,UPI,2024,July
+2024-07-15,Healthcare,Medicines,536.0,Cash,2024,July
+2024-07-16,Shopping,Amazon order,4034.0,Debit Card,2024,July
+2024-07-18,Food,Cafe coffee,689.0,Cash,2024,July
+2024-07-18,Food,Restaurant dinner,651.0,Credit Card,2024,July
+2024-07-19,Transport,Petrol,136.0,UPI,2024,July
+2024-07-22,Entertainment,Netflix subscription,596.0,Cash,2024,July
+2024-07-22,Rent,House rent,8622.0,Credit Card,2024,July
+2024-07-23,Shopping,Electronics,978.0,Cash,2024,July
+2024-07-24,Groceries,Vegetables & fruits,1921.0,Debit Card,2024,July
+2024-07-26,Food,Restaurant dinner,578.0,UPI,2024,July
+2024-07-27,Healthcare,Pharmacy,486.0,Credit Card,2024,July
+2024-07-27,Entertainment,Gaming,705.0,Cash,2024,July
+2024-07-28,Groceries,Monthly groceries,872.0,UPI,2024,July
+2024-07-28,Groceries,Monthly groceries,1615.0,UPI,2024,July
+2024-07-29,Shopping,Electronics,643.0,Credit Card,2024,July
+2024-07-29,Other,Miscellaneous,1412.0,Cash,2024,July
+2024-07-31,Education,Udemy course,4368.0,Cash,2024,July
+2024-07-31,Healthcare,Pharmacy,2952.0,Cash,2024,July
+2024-08-02,Shopping,Clothes shopping,2371.0,UPI,2024,August
+2024-08-03,Groceries,Monthly groceries,931.0,Credit Card,2024,August
+2024-08-04,Education,Books,2781.0,Credit Card,2024,August
+2024-08-04,Entertainment,Netflix subscription,486.0,Cash,2024,August
+2024-08-08,Groceries,Vegetables & fruits,829.0,UPI,2024,August
+2024-08-08,Entertainment,Spotify premium,440.0,Credit Card,2024,August
+2024-08-09,Shopping,Amazon order,802.0,Debit Card,2024,August
+2024-08-14,Healthcare,Pharmacy,1225.0,UPI,2024,August
+2024-08-14,Utilities,Mobile recharge,1346.0,Cash,2024,August
+2024-08-14,Education,Tuition fee,2167.0,UPI,2024,August
+2024-08-16,Other,Gift,756.0,UPI,2024,August
+2024-08-17,Healthcare,Pharmacy,424.0,Debit Card,2024,August
+2024-08-17,Entertainment,Gaming,245.0,Credit Card,2024,August
+2024-08-17,Entertainment,Spotify premium,696.0,Debit Card,2024,August
+2024-08-18,Other,ATM withdrawal,658.0,UPI,2024,August
+2024-08-18,Shopping,Clothes shopping,418.0,UPI,2024,August
+2024-08-22,Other,Donation,174.0,Cash,2024,August
+2024-08-22,Food,Cafe coffee,213.0,Cash,2024,August
+2024-08-22,Shopping,Myntra purchase,794.0,Cash,2024,August
+2024-08-23,Utilities,Electricity bill,1075.0,UPI,2024,August
+2024-08-24,Utilities,Internet bill,377.0,Debit Card,2024,August
+2024-08-26,Rent,Not specified,14764.0,UPI,2024,August
+2024-08-31,Groceries,Local market,1385.0,Cash,2024,August
+2024-09-04,Transport,Ola cab,587.0,Debit Card,2024,September
+2024-09-05,Utilities,Electricity bill,533.0,UPI,2024,September
+2024-09-06,Entertainment,Netflix subscription,201.0,Cash,2024,September
+2024-09-06,Education,Books,2735.0,Cash,2024,September
+2024-09-07,Food,Cafe coffee,628.0,UPI,2024,September
+2024-09-10,Entertainment,Spotify premium,715.0,UPI,2024,September
+2024-09-10,Transport,Bus ticket,460.0,Cash,2024,September
+2024-09-10,Rent,House rent,12594.0,UPI,2024,September
+2024-09-11,Shopping,Clothes shopping,2102.0,Credit Card,2024,September
+2024-09-11,Food,Zomato order,335.0,Cash,2024,September
+2024-09-15,Healthcare,Pharmacy,2344.0,Credit Card,2024,September
+2024-09-16,Rent,Monthly rent,11790.0,UPI,2024,September
+2024-09-16,Education,Udemy course,1752.0,Cash,2024,September
+2024-09-17,Groceries,Monthly groceries,2496.0,UPI,2024,September
+2024-09-20,Transport,Petrol,145.0,Cash,2024,September
+2024-09-27,Education,Udemy course,2952.0,UPI,2024,September
+2024-10-01,Education,Online course,3286.0,Debit Card,2024,October
+2024-10-02,Other,Miscellaneous,1086.0,Credit Card,2024,October
+2024-10-03,Other,Gift,688.0,Credit Card,2024,October
+2024-10-06,Entertainment,Movie tickets,910.0,Cash,2024,October
+2024-10-09,Shopping,Amazon order,3723.0,Credit Card,2024,October
+2024-10-09,Shopping,Clothes shopping,1234.0,UPI,2024,October
+2024-10-10,Shopping,Myntra purchase,1771.0,Credit Card,2024,October
+2024-10-12,Education,Online course,1494.0,Credit Card,2024,October
+2024-10-14,Entertainment,Netflix subscription,774.0,Credit Card,2024,October
+2024-10-14,Education,Online course,4964.0,Credit Card,2024,October
+2024-10-15,Education,Tuition fee,1187.0,Cash,2024,October
+2024-10-16,Healthcare,Pharmacy,2669.0,Credit Card,2024,October
+2024-10-18,Shopping,Clothes shopping,3526.0,Cash,2024,October
+2024-10-19,Healthcare,Health checkup,1991.0,Debit Card,2024,October
+2024-10-20,Healthcare,Doctor visit,2022.0,Cash,2024,October
+2024-10-20,Groceries,Vegetables & fruits,2010.0,UPI,2024,October
+2024-10-20,Utilities,Internet bill,1953.0,Cash,2024,October
+2024-10-22,Other,Donation,408.0,UPI,2024,October
+2024-10-22,Shopping,Amazon order,1442.0,Cash,2024,October
+2024-10-22,Rent,House rent,13771.0,UPI,2024,October
+2024-10-24,Groceries,Local market,456.0,UPI,2024,October
+2024-10-26,Healthcare,Medicines,2700.0,Cash,2024,October
+2024-10-26,Education,Udemy course,3771.0,Credit Card,2024,October
+2024-10-27,Healthcare,Pharmacy,1799.0,UPI,2024,October
+2024-11-06,Entertainment,Netflix subscription,872.0,Cash,2024,November
+2024-11-08,Shopping,Myntra purchase,3355.0,Credit Card,2024,November
+2024-11-10,Unknown,Pharmacy,734.0,Debit Card,2024,November
+2024-12-08,Shopping,Electronics,526.0,Credit Card,2024,December
+2024-12-08,Transport,Ola cab,586.0,UPI,2024,December
+2024-12-08,Rent,House rent,11839.0,Debit Card,2024,December
